@@ -1,5 +1,5 @@
 # 🧠 SQL Business Query 
-This project contains a collection of beginner-to-intermediate level SQL queries designed to answer business-related questions using structured data. It serves as a hands-on practice project to demonstrate SQL skills in solving real-world data challenges.
+This project contains a collection of SQL queries designed to answer business-related questions using structured data. It serves as a hands-on practice project to demonstrate SQL skills in solving real-world data challenges.
 
 ## 📁 Project Description
 The SQL queries in this project were written to explore, analyze, and extract meaningful insights from tables resembling business data (customers, orders, products, etc.). It includes basic selection, filtering, aggregation, and joining techniques — foundational to any data analysis workflow.
